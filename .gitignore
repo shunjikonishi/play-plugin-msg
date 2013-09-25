@@ -1,0 +1,6 @@
+dist/
+lib/
+.classpath
+.project
+.settings
+eclipse
